@@ -1,5 +1,5 @@
 # jellysort
-A sorting algorithm inspired by eating jelly beans and sorting them by colour. 
+A sorting algorithm inspired by eating jelly beans while I was sorting them by colour. 
 Trying to make it as fast as possible or to see if it even doable as I imagined it.
 
 How it works? (or how it should)
